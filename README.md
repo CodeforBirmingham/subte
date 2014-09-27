@@ -14,6 +14,14 @@ This software is licensed under the [GPLv3](http://www.gnu.org/licenses/agpl-3.0
 
 To install the project on your operating system for development, please take a look at the [installation guide wiki](https://github.com/CodeforBirmingham/subte/wiki/Installation-Guide)
 
+### Waffle.io
+
+For issue management, we are using [waffle.io](https://waffle.io/CodeforBirmingham/subte) which integrates with github very well. Issues can also be submitted directly via github. Please submit bug reports, features requests, documentation requests, etc, as they come up; they will be addressed as they are able.
+
+### Wiki
+
+The [wiki document](https://github.com/CodeforBirmingham/subte/wiki) is a collection of useful information about the project. It is recommended for users and developers to take a look at the wiki to familiarize with the project usage, plans, and general information. It is still a work in progress, so some information is not yet placed there properly.
+
 ### Dependencies
 
 The following are the dependencies used in the project:
@@ -30,3 +38,7 @@ The following are the dependencies used in the project:
 * PIL or python-pillow
 * python-lxml
 * python-dateutil
+
+## Notes
+
+This project was started as a personal linux desktop client. Since being adopted by [Code for Birmingham](http://www.codeforbirmingham.org/), we have decided to port the program to windows. This is the top priority at the moment and we are hoping to make this program available as soon as practicable.
