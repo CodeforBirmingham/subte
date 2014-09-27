@@ -12,6 +12,8 @@ This software is licensed under the [GPLv3](http://www.gnu.org/licenses/agpl-3.0
 
 ## Getting Started
 
+### Installation
+
 To install the project on your operating system for development, please take a look at the [installation guide wiki](https://github.com/CodeforBirmingham/subte/wiki/Installation-Guide)
 
 ### Waffle.io
