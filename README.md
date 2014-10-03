@@ -1,8 +1,8 @@
 # Subte
 
-## Description 
-
 [![Stories in Ready](https://badge.waffle.io/CodeforBirmingham/subte.png?label=ready&title=Ready)](https://waffle.io/CodeforBirmingham/subte)
+
+## Description 
 
 Subte is an application to manage public transit data. It can create stops, build routes and timetables, and export to [General Transit Feed Specification](https://developers.google.com/transit/gtfs/reference) data which can be used by Google Transit, Open Trip Planner, and others.
 
